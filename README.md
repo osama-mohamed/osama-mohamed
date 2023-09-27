@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <hr>
-<h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I%27m+Osama+Mohamed+" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I%27m+Osama+Mohamed+" alt="Typing SVG" /></a></h2>
 
 <!--
 **osama-mohamed/osama-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
