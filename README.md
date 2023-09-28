@@ -1,9 +1,8 @@
 
 
 <hr>
-
-<h2 align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=ccc&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Osama+Mohamed+👋" alt="osama-mohamed" /></a></h2>
-
+<p align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=ccc&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Osama+Mohamed+👋" alt="osama-mohamed" /></a></p>
+<div  align="center"><hr width="50%"></div>
 
 
 <!--
