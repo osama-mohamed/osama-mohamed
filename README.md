@@ -1,9 +1,13 @@
-### Hi there 👋
+
 
 <hr>
-<h2 align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I%27m+Osama+Mohamed+" alt="Typing SVG" /></a></h2>
+
+<h2 align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6fa4fb&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Osama+Mohamed+👋" alt="osama-mohamed" /></a></h2>
+
+
 
 <!--
+### Hi there 👋
 **osama-mohamed/osama-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## [Download My CV](https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf)
 -->
 
 <a href="https://github.com/osama-mohamed"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-mohamed&layout=compact&theme=tokyonight&hide_border=true" alt="osama-mohamed" /></a>
@@ -28,13 +33,28 @@ Here are some ideas to get you started:
 <br clear="right"/>
 <hr>
 
+<p align="center">
+  <a href="https://github.com/osama-mohamed">
+      <img align="left" src="https://github-stats-alpha.vercel.app/api?username=osama-mohamed&cc=1a1b27&tc=6fa4fb&ic=fff&bc=000">
+  </a>
+  <a href="https://github.com/osama-mohamed">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=osama-mohamed&theme=radical&show_icons=true&bg_color=1a1b27&text_color=6fa4fb&title_color=f4f4f4&icon_color=f4f4f4&hide_border=true">
+  </a>
+</p>
+
+<br clear="left"/>
+
+<hr>
+
 ### 📫 How to reach me:
 
 <p align ="center">
   <a href ="mailto:osama.mohamed.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href ="https://www.linkedin.com/in/osama-mohamed-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
+<hr>
+<h2 align ="center">
+  <a style="text-decoration:underline" href="https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf" target="_blank">Download My CV</a></h2>
 <hr>
 
-## [Download My CV](https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf)
+
