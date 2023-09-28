@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 <h2 align ="center">
   <a href="https://github.com/osama-mohamed/osama-mohamed/blob/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h2>
 <hr>
-
+## [Download My CV](https://github.com/osama-mohamed/osama-mohamed/blob/master/Osama_Mohamed-CV.pdf)
 
