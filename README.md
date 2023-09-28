@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 </p>
 
 <br clear="left"/>
+<br clear="right"/>
 
 <hr>
 
