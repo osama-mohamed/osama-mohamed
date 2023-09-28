@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br clear="left"/>
 <br clear="right"/>
 <hr>
-
+## [Download My CV](https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf)
 -->
 
 <a href="https://github.com/osama-mohamed"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-mohamed&layout=compact&theme=tokyonight&hide_border=true" alt="osama-mohamed" /></a>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h2 align ="center">
-  <a href="https://github.com/osama-mohamed/osama-mohamed/blob/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h2>
+  <a href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h2>
 <hr>
-## [Download My CV](https://github.com/osama-mohamed/osama-mohamed/blob/master/Osama_Mohamed-CV.pdf)
+
 
