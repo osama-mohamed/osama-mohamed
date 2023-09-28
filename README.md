@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <img align="left" src="https://github-stats-alpha.vercel.app/api?username=osama-mohamed&cc=1a1b27&tc=6fa4fb&ic=fff&bc=000">
   </a>
   <a href="https://github.com/osama-mohamed">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=osama-mohamed&theme=radical&show_icons=true&bg_color=1a1b27&text_color=6fa4fb&title_color=f4f4f4&icon_color=f4f4f4&hide_border=true&card_width=400px">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=osama-mohamed&theme=radical&show_icons=true&bg_color=1a1b27&text_color=6fa4fb&title_color=f4f4f4&icon_color=f4f4f4&hide_border=true&card_width=300px">
   </a>
 </p>
 
