@@ -2,7 +2,7 @@
 
 <hr>
 
-<h2 align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=6fa4fb&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Osama+Mohamed+👋" alt="osama-mohamed" /></a></h2>
+<h2 align="center"><a href="https://github.com/osama-mohamed"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=ccc&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Osama+Mohamed+👋" alt="osama-mohamed" /></a></h2>
 
 
 
@@ -21,17 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## [Download My CV](https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf)
--->
-
-<a href="https://github.com/osama-mohamed"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-mohamed&layout=compact&theme=tokyonight&hide_border=true" alt="osama-mohamed" /></a>
-  
-- I'm Osama Mohamed .
-- Python web Developer ( Back-End ) .
-- Working as a Freelancer .
-
- 
-<br clear="right"/>
-<hr>
 
 <p align="center">
   <a href="https://github.com/osama-mohamed">
@@ -44,8 +33,21 @@ Here are some ideas to get you started:
 
 <br clear="left"/>
 <br clear="right"/>
-
 <hr>
+
+-->
+
+<a href="https://github.com/osama-mohamed"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-mohamed&layout=compact&theme=tokyonight&hide_border=true" alt="osama-mohamed" /></a>
+
+- I'm Osama Mohamed .
+- Python web Developer ( Back-End ) .
+- Working as a Freelancer .
+
+ 
+<br clear="right"/>
+<hr>
+
+
 
 ### 📫 How to reach me:
 
