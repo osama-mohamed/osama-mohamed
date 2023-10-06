@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h3 align ="center">
-  <a href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h3>
+  <a style="font-size: 300px;" href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h3>
 <hr>
 <!-- <hr>
 <h3 align ="center">
