@@ -61,10 +61,10 @@ Here are some ideas to get you started:
   <a href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h2>
 <hr> -->
 <!-- <hr> -->
-<h2 align ="center" style="border-bottom: 0; margin: 1em 0em; padding-bottom: 0;">
+<h3 align ="center">
   <a href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">
   <img style="height: 50px; width: 304px; margin-left:20px;" src="https://custom-icon-badges.demolab.com/badge/-Download%20MY%20CV-2F81F7?style=for-the-badge&logo=download&logoColor=white"/>
-  </a></h2>
+  </a></h3>
 <hr>
 
 
