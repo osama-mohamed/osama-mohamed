@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=2f81f7&pause=1000&center=true&width=435&lines=Hi+there%2C+I%27m+Osama+Mohamed+👋" alt="osama-mohamed" />
   </a>
 </p>
-<div  align="center"><hr width="50%" style="margin-top:0;"></div>
+<div  align="center"><hr width="50%" style="margin-top:0!important;"></div>
 
 
 
