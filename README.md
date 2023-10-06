@@ -57,8 +57,14 @@ Here are some ideas to get you started:
   <a href ="https://osama-mohamed.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 <hr>
-<h2 align ="center">
+<!-- <h2 align ="center">
   <a href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">Download My CV</a></h2>
+<hr> -->
+<!-- <hr> -->
+<h2 align ="center">
+  <a href="https://raw.githubusercontent.com/osama-mohamed/osama-mohamed/master/Osama_Mohamed-CV.pdf" target="_blank">
+  <img style="height: 50px; width: 304px; margin-left:20px;" src="https://custom-icon-badges.demolab.com/badge/-Download%20MY%20CV-2F81F7?style=for-the-badge&logo=download&logoColor=white"/>
+  </a></h2>
 <hr>
 
 
