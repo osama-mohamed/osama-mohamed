@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 
 <p align ="center">
   <a href ="mailto:osama.mohamed.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href ="https://www.linkedin.com/in/osama-mohamed-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href ="https://www.linkedin.com/in/osama-mohamed-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href ="https://www.youtube.com/@osama-mohamed-ms" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href ="https://osama-mohamed.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-202020?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 <hr>
